@@ -83,7 +83,7 @@ h3 {
 }
 
 .bottom-button {
-	margin-top: 245px;
+	margin-top: 167px;
 	padding-bottom: 115px;
 	text-align: center;
 
@@ -123,6 +123,7 @@ h3 {
 }
 
 .conteiner-services {
+	padding-bottom: 75px;
 	background-image: url('../img/services.jpg');
 	background-size: cover;
 }
